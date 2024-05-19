@@ -1,0 +1,19 @@
+{
+  "name": "mermaid",
+  "version": "1.0.0",
+  "description": "mermaid action",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mermaid-js/mermaid-cli": "^10.9.0",
+    "ali-oss": "^6.20.0",
+    "express": "^4.19.2",
+    "js-base64": "^3.7.7",
+    "uuid": "^9.0.1"
+  },
+  "type": "module"
+}
